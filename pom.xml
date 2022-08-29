@@ -12,7 +12,21 @@
         <module>factory-simple</module>
         <module>factory</module>
         <module>abstract-factory</module>
+        <module>builder</module>
+        <module>singleton</module>
+        <module>prototype</module>
+        <module>adapter</module>
+        <module>decorator</module>
+        <module>proxy</module>
+        <module>implementor</module>
     </modules>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>LATEST</version>
+        </dependency>
+    </dependencies>
 </project>
