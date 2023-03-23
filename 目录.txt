@@ -1,0 +1,22 @@
+--创建型
+简单工厂        factory-simple
+抽象工厂        abstract-factory
+工厂方法        factory
+建造者模式      builder
+单例模式        singleton
+原型模式        prototype
+
+--结构型
+适配器模式      adapter
+装饰器模式      decorator
+代理模式        proxy
+桥接模式        implementor
+外观模式        appearance
+组合模式        makeup
+享元模式        flyweight
+
+--行为型
+策略模式        strategy
+模板方法模式    template_method
+责任链模式      chain
+观察者模式      observer

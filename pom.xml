@@ -20,8 +20,19 @@
         <module>proxy</module>
         <module>implementor</module>
         <module>chain</module>
+        <module>appearance</module>
+        <module>makeup</module>
+        <module>flyweight</module>
+        <module>strategy</module>
+        <module>template_method</module>
+        <module>observer</module>
     </modules>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.source>8</maven.compiler.source>
+    </properties>
 
     <dependencies>
         <dependency>
